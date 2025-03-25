@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=27&pause=1000&color=F70000&center=true&vCenter=true&lines=Gonçalo+Dias+Rodrigues;Welcome+to+my+Github!" alt="Gonçalo's Animated Greeting">
 </h1>
 
-#About Me
+# About Me
 
 I'm Gonçalo Dias Rodrigues, a student at UALG pursuing a Licenciatura de Engenharia Informática.
 I'm passionate about technology and have a strong foundation in Java. Currently, I'm enhancing my skills with online courses in Python, Android Studio, Kotlin, and Godot. My dream roles include being a backend developer, Android developer, or game developer.
@@ -17,7 +17,7 @@ In my free time, I enjoy:
 
 "Stay curious, keep learning, and code like there's no tomorrow."
 
-#Skills & Tools
+# Skills & Tools
 
 Here are some of the technologies I'm working with:
 
@@ -30,16 +30,9 @@ Here are some of the technologies I'm working with:
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot">
 </p>
 
-#Projects & Contributions
+# Projects & Contributions
 
 Note: I currently host some school projects on GitHub. While they might not directly reflect my dream roles, they showcase my coding journey and growth as a developer.
-You can also check out my GitHub statistics and contribution graph below:
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Goncalo-Dias-Rodrigues&show_icons=true&theme=radical" alt="Gonçalo's GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Goncalo-Dias-Rodrigues&theme=radical" alt="Gonçalo's Streak Stats">
-</p>
 
 #Fun & Extras
 
@@ -47,11 +40,5 @@ Favorite Quote: "Stay curious, keep learning, and code like there's no tomorrow.
 
 Hobbies: From the adrenaline of F1 racing and wrestling to the strategy of board games – I love all things fun and challenging.
 
-Animated Contribution Graph:
-
-<div align="center">
-  <img src="https://github.com/Goncalo-Dias-Rodrigues/Goncalo-Dias-Rodrigues/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
-</div>
-
-#Let's Connect
+# Let's Connect
 This README is a work in progress as I continue to learn and grow. Thanks for stopping by!
