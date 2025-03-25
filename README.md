@@ -1,11 +1,6 @@
-<!-- Banner Image (Replace with your own URL) -->
-<p align="center">
-  <img src="https://via.placeholder.com/1200x300?text=Your+Banner+Image+Here" alt="Banner Image" width="100%">
-</p>
-
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=27&pause=1000&color=F70000&center=true&vCenter=true&lines=Hi,+I'm+Gonçalo+Dias+Rodrigues;Welcome+to+my+GitHub+Profile!" alt="Gonçalo's Animated Greeting">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=27&pause=1000&color=F70000&center=true&vCenter=true&lines=Hi,+Gonçalo+Dias+Rodrigues;Welcome+to+my+Profile!" alt="Gonçalo's Animated Greeting">
 </h1>
 
 #About Me
