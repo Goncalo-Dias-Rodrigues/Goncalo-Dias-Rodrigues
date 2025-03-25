@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=27&pause=1000&color=F70000&center=true&vCenter=true&lines=Hi,+Gonçalo+Dias+Rodrigues;Welcome+to+my+Profile!" alt="Gonçalo's Animated Greeting">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=27&pause=1000&color=F70000&center=true&vCenter=true&lines=Gonçalo+Dias+Rodrigues;Welcome+to+my+Profile!" alt="Gonçalo's Animated Greeting">
 </h1>
 
 #About Me
