@@ -1,9 +1,10 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=27&pause=1000&color=F70000&center=true&vCenter=true&lines=Gonçalo+Dias+Rodrigues;Welcome+to+my+Profile!" alt="Gonçalo's Animated Greeting">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=27&pause=1000&color=F70000&center=true&vCenter=true&lines=Gonçalo+Dias+Rodrigues;Welcome+to+my+Github!" alt="Gonçalo's Animated Greeting">
 </h1>
 
 #About Me
+
 I'm Gonçalo Dias Rodrigues, a student at UALG pursuing a Licenciatura de Engenharia Informática.
 I'm passionate about technology and have a strong foundation in Java. Currently, I'm enhancing my skills with online courses in Python, Android Studio, Kotlin, and Godot. My dream roles include being a backend developer, Android developer, or game developer.
 
@@ -17,6 +18,7 @@ In my free time, I enjoy:
 "Stay curious, keep learning, and code like there's no tomorrow."
 
 #Skills & Tools
+
 Here are some of the technologies I'm working with:
 
 <p align="center">
@@ -29,6 +31,7 @@ Here are some of the technologies I'm working with:
 </p>
 
 #Projects & Contributions
+
 Note: I currently host some school projects on GitHub. While they might not directly reflect my dream roles, they showcase my coding journey and growth as a developer.
 You can also check out my GitHub statistics and contribution graph below:
 
@@ -39,6 +42,7 @@ You can also check out my GitHub statistics and contribution graph below:
 </p>
 
 #Fun & Extras
+
 Favorite Quote: "Stay curious, keep learning, and code like there's no tomorrow."
 
 Hobbies: From the adrenaline of F1 racing and wrestling to the strategy of board games – I love all things fun and challenging.
