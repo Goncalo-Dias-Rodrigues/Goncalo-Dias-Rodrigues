@@ -34,9 +34,7 @@ Here are some of the technologies I'm working with:
 
 Note: I currently host some school projects on GitHub. While they might not directly reflect my dream roles, they showcase my coding journey and growth as a developer.
 
-#Fun & Extras
-
-Favorite Quote: "Stay curious, keep learning, and code like there's no tomorrow."
+# Fun & Extras
 
 Hobbies: From the adrenaline of F1 racing and wrestling to the strategy of board games – I love all things fun and challenging.
 
