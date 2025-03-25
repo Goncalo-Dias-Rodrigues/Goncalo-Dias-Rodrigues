@@ -8,13 +8,6 @@
 I'm Gonçalo Dias Rodrigues, a student at UALG pursuing a Licenciatura de Engenharia Informática.
 I'm passionate about technology and have a strong foundation in Java. Currently, I'm enhancing my skills with online courses in Python, Android Studio, Kotlin, and Godot. My dream roles include being a backend developer, Android developer, or game developer.
 
-In my free time, I enjoy:
-
-- Formula 1 racing
-- Wrestling
-- Playing videogames and board games
-- Listening to music – I fucking love MUSIC!
-
 "Stay curious, keep learning, and code like there's no tomorrow."
 
 # Skills & Tools
@@ -36,7 +29,12 @@ Note: I currently host some school projects on GitHub. While they might not dire
 
 # Fun & Extras
 
-Hobbies: From the adrenaline of F1 racing and wrestling to the strategy of board games – I love all things fun and challenging.
+In my free time, I enjoy:
+
+- Formula 1 racing
+- Wrestling
+- Playing videogames and board games
+- Listening to music – I fucking love MUSIC!
 
 # Let's Connect
 This README is a work in progress as I continue to learn and grow. Thanks for stopping by!
