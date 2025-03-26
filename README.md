@@ -8,7 +8,7 @@
 I'm Gonçalo Dias Rodrigues, a student at UALG pursuing a Computer Science bachelor's degree.
 I'm passionate about technology and have a strong foundation in Java. Currently, I'm enhancing my skills with online courses in Python, Android Studio, Kotlin, and Godot. My dream roles include being a backend developer, Android developer, or game developer.
 
-"Stay curious, keep learning, and code like there's no tomorrow."
+"I will take responsibility for what I have done, if I must fall, I will rise each time a better man." - Dalinar Kholin
 
 # Skills & Tools
 
