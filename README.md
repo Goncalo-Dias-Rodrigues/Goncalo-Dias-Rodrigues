@@ -27,8 +27,8 @@ Here are some of the technologies I'm working with:
 
 Here are some of my projects:
 
-- PersonalSnakeGame(https://github.com/Goncalo-Dias-Rodrigues/PersonalSnakeGame)
-- LanguageCompiler(working on it)(https://github.com/Goncalo-Dias-Rodrigues/LanguageCompiler)
+- PersonalSnakeGame (https://github.com/Goncalo-Dias-Rodrigues/PersonalSnakeGame)
+- LanguageCompiler (working on it) (https://github.com/Goncalo-Dias-Rodrigues/LanguageCompiler)
 
 Note: I currently host some school projects on GitHub. While they might not directly reflect my dream roles, they showcase my coding journey and growth as a developer.
 
