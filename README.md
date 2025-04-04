@@ -10,9 +10,13 @@ I'm passionate about technology and have a strong foundation in Java. Currently,
 
 "I will take responsibility for what I have done, if I must fall, I will rise each time a better man." - Dalinar Kholin
 
-# Skills & Tools
+### Skills & Tools
 
+‹ing align="left" alt-"Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /›
+<br />
 Here are some of the technologies I'm working with:
+
+
 
 <p align="center">
   <!-- Example badges; feel free to update with your favorite tools -->
