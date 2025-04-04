@@ -10,7 +10,7 @@ I'm passionate about technology and have a strong foundation in Java. Currently,
 
 "I will take responsibility for what I have done, if I must fall, I will rise each time a better man." - Dalinar Kholin
 
-### Skills & Tools
+# Skills & Tools
 
 Here are some of the technologies I'm working with:
 
