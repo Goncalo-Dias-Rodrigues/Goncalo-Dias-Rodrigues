@@ -30,13 +30,4 @@ In the future I'd like to be a backend developer, Android developer, or game dev
 
 - Personal Snake Game (https://github.com/Goncalo-Dias-Rodrigues/PersonalSnakeGame)
 - Neural Network Digits (https://github.com/Goncalo-Dias-Rodrigues/NeuralNetworkDigits)
-- Matrix Multiplication Case Study (https://github.com/Goncalo-Dias-Rodrigues/MatrixMultiplicationCaseStudy)
 - Language Compiler (working on it) (https://github.com/Goncalo-Dias-Rodrigues/LanguageCompiler)
-
-# Fun & Extras
-
-- Listening to music
-- Reading Fantasy Books
-- Playing videogames and board games
-- Formula 1 racing
-- Wrestling
