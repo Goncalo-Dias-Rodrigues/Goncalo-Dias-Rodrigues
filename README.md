@@ -30,4 +30,3 @@ In the future I'd like to be a backend developer, Android developer, or game dev
 
 - Personal Snake Game (https://github.com/Goncalo-Dias-Rodrigues/PersonalSnakeGame)
 - Neural Network Digits (https://github.com/Goncalo-Dias-Rodrigues/NeuralNetworkDigits)
-- Language Compiler (working on it) (https://github.com/Goncalo-Dias-Rodrigues/LanguageCompiler)
