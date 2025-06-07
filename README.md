@@ -29,4 +29,5 @@ In the future I'd like to be a backend developer, Android developer, or game dev
 # Projects
 
 - Personal Snake Game (https://github.com/Goncalo-Dias-Rodrigues/PersonalSnakeGame)
+- Sorting Algorithms Case Study (https://github.com/Goncalo-Dias-Rodrigues/SortingAlgoritmsCaseStudy)
 - Neural Network Digits (https://github.com/Goncalo-Dias-Rodrigues/NeuralNetworkDigits)
