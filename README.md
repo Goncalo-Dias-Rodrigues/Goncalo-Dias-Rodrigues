@@ -7,8 +7,7 @@
 Hello there!
 I'm Gonçalo Dias Rodrigues, a student at UALG pursuing a Computer Science bachelor's degree.
 I started my journey in 2022 with C but now I have a strong foundation with Java.
-I'm currently learning Python, Android development, and Godot, in addition to what I learn at university.
-In the future I'd like to be a backend developer, Android developer, or game developer (still deciding).
+I'm currently learning Python in addition to what I learn at university.
 
 
 # Strong Foundation
@@ -16,13 +15,6 @@ In the future I'd like to be a backend developer, Android developer, or game dev
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</p>
-
-# Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot">
 </p>
 
 # Projects
