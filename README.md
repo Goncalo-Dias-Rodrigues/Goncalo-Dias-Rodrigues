@@ -20,5 +20,4 @@ I'm currently learning Python in addition to what I learn at university.
 # Projects
 
 - Personal Snake Game (https://github.com/Goncalo-Dias-Rodrigues/PersonalSnakeGame)
-- Sorting Algorithms Case Study (https://github.com/Goncalo-Dias-Rodrigues/SortingAlgoritmsCaseStudy)
 - Neural Network Digits (https://github.com/Goncalo-Dias-Rodrigues/NeuralNetworkDigits)
