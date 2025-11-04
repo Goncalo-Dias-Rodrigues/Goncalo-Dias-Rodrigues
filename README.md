@@ -18,6 +18,13 @@ I'm currently learning Python in addition to what I learn at university.
 </p>
 
 # Projects
-
-- Personal Snake Game (https://github.com/Goncalo-Dias-Rodrigues/PersonalSnakeGame)
+## University
+### AI
 - Neural Network Digits (https://github.com/Goncalo-Dias-Rodrigues/NeuralNetworkDigits)
+- Dock Container Sorting (https://github.com/Goncalo-Dias-Rodrigues/AI_Container_Sorting)
+- Array Even/Odd Sorting (https://github.com/Goncalo-Dias-Rodrigues/AI_Array_Sorting)
+- 8 Puzzle Solver (https://github.com/Goncalo-Dias-Rodrigues/8-Puzzle_Solver)
+
+## Online Courses
+- Personal Snake Game (https://github.com/Goncalo-Dias-Rodrigues/PersonalSnakeGame)
+
