@@ -21,8 +21,8 @@ More recently, I have also become interested in Artificial Intelligence, especia
 </p>
 
 # Projects
-## University
-### - AI
+##  - University
+### AI
 - Array Even/Odd Sorting (https://github.com/Goncalo-Dias-Rodrigues/AI_Array_Sorting)
 - 8 Puzzle Solver (https://github.com/Goncalo-Dias-Rodrigues/8-Puzzle_Solver)
 
