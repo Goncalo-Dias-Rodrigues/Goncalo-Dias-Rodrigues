@@ -4,10 +4,13 @@
 
 # About Me
 
-Hello there!
-I'm Gonçalo Dias Rodrigues, a student at UALG pursuing a Computer Science bachelor's degree.
-I started my journey in 2022 with C but now I have a strong foundation with Java.
-I'm currently learning Python in addition to what I learn at university.
+Hello there! I recently completed my BSc in Computer Engineering at the University of Algarve and will soon begin my MSc in Computer Engineering.
+
+
+I am particularly interested in backend development, software engineering, and understanding how complex software systems are designed and built. Throughout my studies, I developed a strong foundation in Java and in Python.
+
+
+More recently, I have also become interested in Artificial Intelligence, especially because the MSc includes many classes focused on it, and I enjoy watching it improve at the tasks it is designed to perform.
 
 
 # Strong Foundation
