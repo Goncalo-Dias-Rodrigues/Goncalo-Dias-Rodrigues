@@ -22,10 +22,10 @@ More recently, I have also become interested in Artificial Intelligence, especia
 
 # Projects
 ## University
-### AI
+### - AI
 - Array Even/Odd Sorting (https://github.com/Goncalo-Dias-Rodrigues/AI_Array_Sorting)
 - 8 Puzzle Solver (https://github.com/Goncalo-Dias-Rodrigues/8-Puzzle_Solver)
 
-## Online Courses
+## - Online Courses
 - Personal Snake Game (https://github.com/Goncalo-Dias-Rodrigues/PersonalSnakeGame)
 
