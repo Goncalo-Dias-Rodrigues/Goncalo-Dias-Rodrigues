@@ -4,7 +4,7 @@
 
 # About Me
 
-Hello there! I recently completed my BSc in Computer Engineering at the University of Algarve and will soon begin my MSc in Computer Engineering.
+Hello there! I'm currently doing my MSc in Computer Engineering at UALG.
 
 
 I am particularly interested in backend development, software engineering, and understanding how complex software systems are designed and built. Throughout my studies, I developed a strong foundation in Java and in Python.
