@@ -22,6 +22,15 @@ More recently, I have also become interested in Artificial Intelligence, especia
 
 # Projects
 ##  - University
+### Metaheuristics
+- MAXSAT Solver (https://github.com/Goncalo-Dias-Rodrigues/MaxSat-BruteForce)
+
+### Modern Cryptography
+- Classic Cyphers (https://github.com/Goncalo-Dias-Rodrigues/Classic-Cyphers)
+  
+### Machine Learning
+- Linear Regression (https://github.com/Goncalo-Dias-Rodrigues/ML-Linear-Regression)
+  
 ### AI
 - Array Even/Odd Sorting (https://github.com/Goncalo-Dias-Rodrigues/AI_Array_Sorting)
 - 8 Puzzle Solver (https://github.com/Goncalo-Dias-Rodrigues/8-Puzzle_Solver)
