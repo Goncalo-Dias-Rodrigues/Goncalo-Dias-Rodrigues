@@ -13,7 +13,7 @@ I am particularly interested in backend development, software engineering, and u
 More recently, I have also become interested in Artificial Intelligence, especially because the MSc includes many classes focused on it, and I enjoy watching it improve at the tasks it is designed to perform.
 
 
-# Strong Foundation
+# Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
