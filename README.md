@@ -26,7 +26,7 @@ More recently, I have also become interested in Artificial Intelligence, especia
 - MAXSAT Solver (https://github.com/Goncalo-Dias-Rodrigues/MaxSat-BruteForce)
 
 ### Modern Cryptography
-- Classic Cyphers (https://github.com/Goncalo-Dias-Rodrigues/Classic-Cyphers)
+- Classic Ciphers (https://github.com/Goncalo-Dias-Rodrigues/Classic-Cyphers)
   
 ### Machine Learning
 - Linear Regression (https://github.com/Goncalo-Dias-Rodrigues/ML-Linear-Regression)
